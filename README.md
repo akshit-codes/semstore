@@ -46,4 +46,4 @@ Compiled during **'24, Semester 1** by students, for the '25 batch.
 
 #### Creator: Akshit Chhabra
 
-#### Special Credits: Chaitanya Bhoite & Harsh Jha
+#### Special Credits: Chaitanya Bhoite, Harsh Jha & Rishi Kumar
